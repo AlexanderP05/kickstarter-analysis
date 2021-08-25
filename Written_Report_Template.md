@@ -27,8 +27,7 @@ and their funding goals. We were to use
   
 - What can you conclude about the Outcomes based on Goals?
 
-  It is immediately eident that 0 plays were canceled. But it is also clear that the lower the goal of the campaign the more 
-  likely it was to be a 'Successful' campaign. 
+  It is clear that the lower the goal of the campaign the more likely it was to be a 'Successful' campaign. 
 
 - What are some limitations of this dataset?
 
