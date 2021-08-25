@@ -15,9 +15,11 @@ and their funding goals. We were to use
 
 ### Challenges and Difficulties Encountered
 
+  The biggest challange I had and am still encountring was the manipul
+
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- *What are two conclusions you can draw about the Outcomes based on Launch Date?*
   
   One thing that is almost immediately clear, is that the 'Successful' campaigns create a near standard distribution curve, 
   with the 'Summer months' (May-August) being the best times to launch a campaign.   Secondly, The relatively flat distribution of
@@ -31,4 +33,5 @@ and their funding goals. We were to use
 
 - What are some limitations of this dataset?
 
+  One o the pirmary limitation of this data set in the 
 - What are some other possible tables and/or graphs that we could create?
