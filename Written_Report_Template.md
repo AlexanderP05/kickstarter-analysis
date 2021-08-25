@@ -18,6 +18,7 @@ and their funding goals. We were to use
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+  
   One if the things that are almost    
 - What can you conclude about the Outcomes based on Goals?
 
