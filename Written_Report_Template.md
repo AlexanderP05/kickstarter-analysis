@@ -19,7 +19,8 @@ and their funding goals. We were to use
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   
-  One if the things that are almost    
+  One if the things that are almost immediately clear is the 'Successful' campaigns create a near standard distribution curve
+  with 'Summer months' (May-August) being the best times to launch a campaign.   
 - What can you conclude about the Outcomes based on Goals?
 
 - What are some limitations of this dataset?
