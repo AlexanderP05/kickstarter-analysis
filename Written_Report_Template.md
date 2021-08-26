@@ -35,3 +35,5 @@ and their funding goals. We were to use
 
   One o the pirmary limitation of this data set in the 
 - *What are some other possible tables and/or graphs that we could create?*
+- I would like to see a chart comparing Launch date with campaig goal. Is there a correlation between time of year and capaign budget goal?
+  I would also be curious to compare the most successful campaigns in each country and compare the types. 
