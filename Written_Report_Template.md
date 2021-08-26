@@ -27,11 +27,11 @@ and their funding goals. We were to use
   factor contributing to a 'Failed' cmapaign. The one notable excpetion being December, as it clearly the worst month in which to 
   launch a campaign, which is made evident by the fact it has the smallest spread between 'Successful' and 'Failed'capaigns.
   
-- What can you conclude about the Outcomes based on Goals?
+- *What can you conclude about the Outcomes based on Goals?*
 
   It is clear that the lower the goal of the campaign the more likely it was to be a 'Successful' campaign. 
 
-- What are some limitations of this dataset?
+- *What are some limitations of this dataset?*
 
   One o the pirmary limitation of this data set in the 
-- What are some other possible tables and/or graphs that we could create?
+- *What are some other possible tables and/or graphs that we could create?*
