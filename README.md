@@ -1,17 +1,19 @@
 # kickstarter-analysis
 BootCamp Module 1 Analysis of Kickstarter Campaigns
+
 Kickstarter Campaigns: vs Launch Date and Funding Goals 
 
-Purpose 	
+**Purpose** 	
 The purpose of this analysis was to compare how Kickstarter (KS) Campaigns fared in
 comparison to their launch date and their campaign fundraising goals respectively using Pivot Tables
 and line graphs. We want to try and determine, when is the best time to launch a Theatre Kickstarter 
 Campaign and what fundraising target is most likely to be successfully met.
 
-Analysis of Data
+**Analysis of Data**
 
-Theatre Outcomes by Launch Date:
-	Don’t Launch a Campaign in December! When first looking at the ‘Theatre Outcomes Based on 
+*Theatre Outcomes by Launch Date:
+ 
+Don’t Launch a Campaign in December! When first looking at the ‘Theatre Outcomes Based on 
 Launch Date’ it is clear that December is the worst month in which to launch a KS Campaign.  It is also 
 evident that the 2nd Quartile, (April-June) is not only the best time to launch a KS Theatre Campaign but 
 overall the best time to launch any and all campaign, on average. Same holds true for December being 
@@ -28,7 +30,7 @@ $35000-44999. There are relatively few project in this range but it those in tha
 to succeed than to fail. This tells also tells us that the budget in that range is conducive to successful 
 show.   
 
-Results:
+**Results:**
 
 Conclusions:
 
