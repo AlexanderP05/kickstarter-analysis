@@ -34,7 +34,7 @@ show.
 
 Conclusions:
 
-	One thing that is almost immediately clear, is that the 'Successful' campaigns create a near standard 
+   One thing that is almost immediately clear, is that the 'Successful' campaigns create a near standard 
 distribution curve, with the 'Summer months' (May-August) being the best times to launch a campaign.   
 Secondly, The relatively flat distribution of 'Failed' campaigns, when compared to 'Successful' 
 campaigns, tells us that 'Launch Date' is unlikely to be the primary factor contributing to a 'Failed' 
@@ -44,13 +44,13 @@ a campaign, which is made evident by the fact it has the smallest spread between
 'Successful' campaign.
 
 Limitations:
-	One of the issues I came up against was particularly with the ‘Theatre Outcomes Based on 
+   One of the issues I came up against was particularly with the ‘Theatre Outcomes Based on 
 Launch Dates’. It tells us nothing about the productions themselves and whether the subject of the plays 
 had anything to do with it’s success or failure.  I would also like to know what definition/threshold is of 
 failed vs canceled campaigns.  
 
 Additional Tables and Graphs:
-I would like to see a chart comparing launch dates with campaign goals. Is there a correlation 
+   I would like to see a chart comparing launch dates with campaign goals. Is there a correlation 
 between time of year and campaign budget goal? I would also be curious to compare the most 
 successful campaigns in each country and compare how the type of each campaign fairs relative to the 
 ‘Campaign Goal’ set. Does the time of year in a specific country lend itself to a specific type of 
